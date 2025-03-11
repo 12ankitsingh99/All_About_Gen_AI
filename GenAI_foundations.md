@@ -1,4 +1,4 @@
-# [Week 1, Part 1] Applied LLM Foundations and Real World Use Cases
+# Applied LLM Foundations and Real World Use Cases
 
 [Jan 15 2024] You can register [here](https://forms.gle/353sQMRvS951jDYu7) to receive course content and other resources 
 
