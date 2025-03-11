@@ -1,7 +1,5 @@
 # Applied LLM Foundations and Real World Use Cases
 
-[Jan 15 2024] You can register [here](https://forms.gle/353sQMRvS951jDYu7) to receive course content and other resources 
-
 ## ETMI5: Explain to Me in 5
 
 In this part of the course, we delve into the intricacies of Large Language Models (LLMs). We start off by exploring the historical context and fundamental concepts of artificial intelligence (AI), machine learning (ML), neural networks (NNs), and generative AI (GenAI). We then examine the core attributes of LLMs, focusing on their scale, extensive training on diverse datasets, and the role of model parameters. Then we go over the types of challenges associated with using LLMs.
